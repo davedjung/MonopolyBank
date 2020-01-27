@@ -1,0 +1,21 @@
+C:\Users\minki\Desktop\Monopoly Bank\bin\Debug\Monopoly Bank.exe.config
+C:\Users\minki\Desktop\Monopoly Bank\bin\Debug\Monopoly Bank.exe
+C:\Users\minki\Desktop\Monopoly Bank\bin\Debug\Monopoly Bank.pdb
+C:\Users\minki\Desktop\Monopoly Bank\bin\Debug\Monopoly Bank.xml
+C:\Users\minki\Desktop\Monopoly Bank\obj\Debug\Monopoly Bank.vbprojAssemblyReference.cache
+C:\Users\minki\Desktop\Monopoly Bank\obj\Debug\Monopoly_Bank.Resources.resources
+C:\Users\minki\Desktop\Monopoly Bank\obj\Debug\Monopoly Bank.vbproj.GenerateResource.cache
+C:\Users\minki\Desktop\Monopoly Bank\obj\Debug\Monopoly Bank.exe
+C:\Users\minki\Desktop\Monopoly Bank\obj\Debug\Monopoly Bank.xml
+C:\Users\minki\Desktop\Monopoly Bank\obj\Debug\Monopoly Bank.pdb
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\bin\Debug\Monopoly Bank.exe.config
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\bin\Debug\Monopoly Bank.exe
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\bin\Debug\Monopoly Bank.pdb
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\bin\Debug\Monopoly Bank.xml
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\obj\Debug\Monopoly Bank.vbprojAssemblyReference.cache
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\obj\Debug\Monopoly_Bank.GUI.resources
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\obj\Debug\Monopoly_Bank.Resources.resources
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\obj\Debug\Monopoly Bank.vbproj.GenerateResource.cache
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\obj\Debug\Monopoly Bank.exe
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\obj\Debug\Monopoly Bank.xml
+C:\Users\guans\OneDrive\바탕 화면\Monopoly Bank\obj\Debug\Monopoly Bank.pdb
